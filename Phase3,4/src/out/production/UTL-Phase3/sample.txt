@@ -1,0 +1,11 @@
+int balance;
+int tick_counts = 0;
+
+void far(int t1) {
+    Order o3 = Order(SELL, 100, 100, 10);
+}
+
+
+void Main(){
+
+}
